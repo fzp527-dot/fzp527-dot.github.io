@@ -19,11 +19,10 @@ Moved to ECS, moved the rules into GameSession, and added the Listener, Factory 
 ## Version 3: implementation (16 November)
 Own ECS instead of Ashley, stress bar fills up, GameViewport, Long Boi replaces ProtectiveGeese.
 
-![Component diagram](assets/images/v3-component.png)
-![Class diagram A](assets/images/v3-classA.png)
-![Class diagram B](assets/images/v3-classB.png)
-![Class diagram C](assets/images/v3-classC.png)
-![Class diagram D](assets/images/v3-classD.png)
-![State machine](assets/images/v3-state.png)
-![Bread Van sequence](assets/images/v3-breadvan.png)
-![Long Boi sequence](assets/images/v3-longboi.png)
+The component diagram, class diagrams A and B, the state machine and the Bread Van sequence diagram are in the main Arch1 document. The diagrams below are extra detail that did not fit there.
+
+![Class diagram C](/assets/images/v3-classC.png)
+
+![Class diagram D](/assets/images/v3-classD.png)
+
+![Long Boi sequence](/assets/images/v3-longboi.png)
