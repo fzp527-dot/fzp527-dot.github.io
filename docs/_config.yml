@@ -1,7 +1,10 @@
-title: ENG1 Goose Patrol Game COHORT 2 GROUP 5
-header: 
-- requirements.md
-- architecture.md
-- method selection.md
-- risk.md
-- implementation.md
+title: Escape the Geese
+description: "Engineering 1 coursework"
+theme: minima
+header_pages:
+  - index.md
+  - requirements.md
+  - architecture.md
+  - planning.md
+  - risks.md
+  - implementation.md
