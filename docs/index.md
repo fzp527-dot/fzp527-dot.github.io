@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Home
 ---
 
@@ -15,4 +15,4 @@ Escape the Geese is a top-down 2D game set on the University of York campus, bui
 -  Hrishikesh Raghu Nair
 -  Viktoriia Solodukha
 ## Links
-- [Game repository](https://github.com/Hrishi028/Goose-Patrol)
+[Game repo location](https://github.com/Hrishi028/Goose-Patrol)
