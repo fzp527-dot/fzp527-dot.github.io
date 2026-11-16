@@ -28,5 +28,5 @@ Goose Patrol is a top-down 2D game set on the University of York campus, built w
 
 ## Game
 
-- [Download the game (JAR)](https://fzp527-dot.github.io/GoosePatrol-1.0.0.jar)
+- [Download the game (JAR)](https://github.com/fzp527-dot/fzp527-dot.github.io/raw/main/GoosePatrol-1.0.0.jar)
 - [Source code on GitHub](https://github.com/Hrishi028/Goose-Patrol)
