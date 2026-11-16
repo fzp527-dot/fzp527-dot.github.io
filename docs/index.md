@@ -24,7 +24,7 @@ Goose Patrol is a top-down 2D game set on the University of York campus, built w
 - [Architecture (Arch1)](Arch1.pdf)
 - [Risk assessment and mitigation (Risk1)](Risk1.pdf)
 - [Implementation (Impl1)](Impl1.pdf)
-- [Interim versions](https://fzp527-dot.github.io/architecture.html)
+- [Interim versions](/architecture.html)
 
 ## Game
 
