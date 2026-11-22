@@ -5,6 +5,17 @@ title: Architecture
 
 How our architecture changed over the project. The final version is described in Arch1.
 
+## CRC cards (before Version 1)
+Our first design session. Each card shows a class's responsibilities and the classes it works with. Version 1 of the class diagram was built from these.
+
+<img src="CRC-Player.png" alt="CRC card: Player" width="400">
+<img src="CRC-GooseCard.png" alt="CRC card: Goose" width="400">
+<img src="CRC-GooseSpawner.png" alt="CRC card: Goose Spawner" width="400">
+<img src="CRC-Items.png" alt="CRC card: Items" width="400">
+<img src="CRC-HiddenEvent.png" alt="CRC card: Hidden Event" width="400">
+<img src="CRC-EventManager.png" alt="CRC card: Event Manager" width="400">
+<img src="CRC-GameTimer.png" alt="CRC card: Game Timer" width="400"> 
+
 ## Version 1 (25 October)
 From the CRC cards: Player and Goose inherit from Entity, and GameScreen owns almost everything.
 
