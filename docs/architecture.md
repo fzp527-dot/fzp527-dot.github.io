@@ -22,7 +22,7 @@ From the CRC cards: Player and Goose inherit from Entity, and GameScreen owns al
 ![Class diagram v1](assets/images/v1-class.png)
 
 ## Version 2 (1 November)
-Moved to ECS, moved the rules into GameSession, and added the Listener, Factory and Façade patterns.
+Moved to ECS, moved the rules into GameSession, and added the Listener, Factory and Facade patterns.
 
 ![Class diagram C v2](assets/images/v2-classC.png)
 ![Class diagram D v2](assets/images/v2-classD.png)
